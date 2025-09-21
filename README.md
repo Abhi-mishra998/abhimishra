@@ -5,7 +5,7 @@ Hi 👋, I’m <b>Abhishek Mishra</b> — passionate about <b>DevOps | Cloud | D
 </p>
 
 <p align="center">
-  <a href="https://bit.ly/abhimishra-portfolio"><img src="https://img.shields.io/badge/🌍 Live%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=githubpages"></a>
+  <a href="https://abhi-mishra998.github.io/abhimishra/"><img src="https://img.shields.io/badge/🌍 Live%20Portfolio-Click%20Here-blue?style=for-the-badge&logo=githubpages"></a>
   <a href="https://linkedin.com/in/abhishek-mishra-49888123b"><img src="https://img.shields.io/badge/💼 LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:abhishekmmishra09896@gmail.com"><img src="https://img.shields.io/badge/📩 Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://github.com/Abhi-mishra998"><img src="https://img.shields.io/badge/🖥️ GitHub-Abhi--mishra998-black?style=for-the-badge&logo=github"></a>
